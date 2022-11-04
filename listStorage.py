@@ -1,0 +1,3 @@
+# create a empty list as the app start
+# then store the details....
+myProdList = []
